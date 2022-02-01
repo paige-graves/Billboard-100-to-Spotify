@@ -6,4 +6,4 @@
 3. Top-Movies:
    - Using Beautiful Soup and Requests to scrape the top 100 movies of all time.
 4. Wikipedia-Web-Scrape:
-   - Using Selenium to automate a Wikipedia search
+   - Using Selenium to automate a Wikipedia search.
