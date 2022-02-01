@@ -15,6 +15,6 @@ while phonetic_output:
         print(output_list)
         phonetic_output = False
     except KeyError:
-        print("Sorry, only letters in the alphabet please")
+        print("Sorry, only letters in the alphabet")
 
 
