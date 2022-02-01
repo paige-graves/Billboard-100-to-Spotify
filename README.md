@@ -5,3 +5,5 @@
    - Using Pandas to iterate through a DataFrame to display the NATO phonetic spelling of a given name.
 3. Top-Movies:
    - Using Beautiful Soup and Requests to scrape the top 100 movies of all time.
+4. Wikipedia-Web-Search:
+   - Using Selenium to automate a Wikipedia search
